@@ -7,8 +7,6 @@ import biblioteka.interfejs.BibliotekaInterface;
 
 public class Biblioteka implements BibliotekaInterface {
 	
-	
-	//nepotrban komentar 2
 	private LinkedList<Knjiga> knjige= new LinkedList<Knjiga>();
 
 	@Override
